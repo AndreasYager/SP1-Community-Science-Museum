@@ -1,6 +1,6 @@
 # Community Science Museum
 
-This project is a website for a sciene museum. It is an assignment for the first year of Noroff Front End Development.
+This project is a website for a science museum. It is an assignment for the first year of Noroff Front End Development.
 
 ## Description
 
