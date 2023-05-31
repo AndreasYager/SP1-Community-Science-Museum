@@ -1,5 +1,3 @@
-The brief for this project was to make a website for an interactive science museum called the Community Science Museum, with a core target audience of kids/teens 7-15 as well as their parents.
-
 # Community Science Museum
 
 This project is a website for a sciene museum. It is an assignment for the first year of Noroff Front End Development.
